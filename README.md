@@ -7,9 +7,12 @@
 
 ## 🐍 My Contributions Graph
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-Woodsprite&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Woodsprite&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabriel-"oodsprite&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabriel-"oodsprite&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Woodsprite&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
