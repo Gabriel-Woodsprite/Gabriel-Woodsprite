@@ -2,7 +2,7 @@
   <h1>Hola, soy <a href="https://www.instagram.com/gamborin_/">Gabriel</a></h1>
 </div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Gabriel+Gutierrez+P;&hearts;++;Engineering Dev+at+ITZ,;Computer+Science+Student,;Musician,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Gabriel+Gutierrez+P;&hearts;++;Engineering Dev+at+ITZ;Computer+Science+Student;Musician;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
 </p>
 <!--
 **Gabriel-Woodsprite/Gabriel-Woodsprite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
