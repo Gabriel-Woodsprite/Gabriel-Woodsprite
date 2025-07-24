@@ -5,6 +5,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73BD8&center=true&vCenter=true&random=false&width=600&lines=Gabriel+Woodsprite;Dev+at+ITZ;Computational+Systems+Engineering+student;Musician" alt="Typing SVG" /></a>
 </div>
 
+## 🐍 My Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 <!--
 **Gabriel-Woodsprite/Gabriel-Woodsprite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
