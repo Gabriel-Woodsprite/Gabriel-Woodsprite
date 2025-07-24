@@ -2,8 +2,8 @@
   <h1>Hola, soy <a href="https://www.instagram.com/gamborin_/">Gabriel</a></h1>
 </div>
 <div align="center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73BD8&center=true&vCenter=true&random=false&width=435&lines=Gabriel+Woodsprite;Dev+at+ITZ;Computational+Systems+Engineering+student;Musician" alt="Typing SVG" /></a>
-  </div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73BD8&center=true&vCenter=true&random=false&width=450&lines=Gabriel+Woodsprite;Dev+at+ITZ;Computational+Systems+Engineering+student;Musician" alt="Typing SVG" /></a>
+</div>
 
 <!--
 **Gabriel-Woodsprite/Gabriel-Woodsprite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
