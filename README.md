@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hola, soy <a href="https://www.instagram.com/gamborin_/">Gabriel</a></h1>
+  <h1>Welcome to my repo. I'm <a href="https://www.instagram.com/gamborin_/">Gabriel</a></h1>
 </div>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73BD8&center=true&vCenter=true&random=false&width=600&lines=Developer+at+ITZ;Computational+Systems+Engineering+Student;Java+Dev" alt="Typing SVG" /></a>
